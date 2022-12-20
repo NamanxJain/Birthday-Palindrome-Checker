@@ -8,7 +8,7 @@
 
 :root {
   --primary-color: #000000;
-  --background-color:#a17878;
+  --background-color:#ffffff;
 }
 
 body {
@@ -99,4 +99,11 @@ li {
 img {
   width: 40px;
   padding: 0.2rem;
+}
+
+.container
+{
+    background-color: #00000047;
+    margin:auto;
+    padding: 40px;
 }
